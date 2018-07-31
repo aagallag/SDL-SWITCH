@@ -29,6 +29,8 @@
 /* Hidden "this" pointer for the video functions */
 #define _THIS	SDL_VideoDevice *this
 
+#include <switch.h>
+
 
 /* Private display data */
 
